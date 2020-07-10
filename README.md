@@ -1,2 +1,2 @@
 # oodassignments
-my odd assignments
+my object oriented design assignments
